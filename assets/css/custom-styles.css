@@ -1,0 +1,48 @@
+/* assets/css/custom-styles.css */
+
+/* Fondo y texto generales */
+body {
+    background: #0f1115 !important;
+    color: #e6e6e6 !important;
+}
+
+/* Contenedor de página / posts */
+.page, .post, .content {
+    background: #121419 !important;
+    color: #e6e6e6 !important;
+    border-color: #1d212b !important;
+}
+
+/* Navbar y footer */
+.navbar, .footer, .site-footer, .site-header {
+    background: #0b0d12 !important;
+    border-color: #1a1f29 !important;
+}
+
+/* Links */
+a {
+    color: #8ab4ff !important;
+}
+
+a:hover {
+    color: #a9c6ff !important;
+}
+
+/* Bloques de código */
+pre, code {
+    background: #171a21 !important;
+    color: #eaeaea !important;
+    border-color: #222836 !important;
+}
+
+/* Tarjetas / paneles que use el tema */
+.panel, .well, .card {
+    background: #141821 !important;
+    color: #e6e6e6 !important;
+    border-color: #1d2330 !important;
+}
+
+/* Bordes y divisores */
+hr {
+    border-top-color: #242b3a !important;
+}
