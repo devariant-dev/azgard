@@ -5,6 +5,21 @@ Gracias a **AutoModpack**, todo el proceso es automático y seguro ✅.
 
 ---
 
+## 📥 Paso previo obligatorio (una sola vez)
+
+Antes de entrar al servidor por primera vez con AutoModpack:  
+
+1. Descargá el siguiente mod:  
+   🔗 [AutoModpack Client Mod](<https://www.curseforge.com/minecraft/mc-mods/automodpack/download/6694475>)
+3. Copiá el archivo `.jar` en la carpeta `mods/` de tu instalación de Minecraft  
+   (en Windows normalmente está en `%appdata%/.minecraft/mods`).
+   NO es necesario que elimines o modifiques nada más.  
+4. Luego iniciá el juego normalmente.
+
+👉 **Este paso solo se hace una vez.** A partir de ahí, AutoModpack mantendrá todo actualizado automáticamente.
+
+---
+
 ## 🔑 Paso 1 – Verificación del host
 Al entrar al servidor, aparecerá una pantalla de seguridad para validar la conexión.  
 📌 **Pegá el hash que te compartimos en Discord** en el campo de texto y presioná **Verify**.
