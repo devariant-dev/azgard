@@ -1,5 +1,5 @@
 title: Azgard Modpack
 description: Guías, changelogs y soporte
-remote_theme: dracula/gh-pages
+remote_theme: pages-themes/tactile@v0.2.0
 plugins:
   - jekyll-remote-theme
